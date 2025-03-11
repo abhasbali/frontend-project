@@ -9,7 +9,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
+https://github.com/abhasbali/frontend-project.git
 cd frontend-project
 ```
 
